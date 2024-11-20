@@ -1,14 +1,21 @@
 # Car-Dekho--used-car-price-prediction
 
 # Skills take away From This Project
-Data Cleaning and Preprocessing
-Exploratory Data Analysis
-Machine Learning Model Development
-Price Prediction Techniques
-Model Evaluation and Optimization
-Model Deployment
-Streamlit Application Development
-Documentation and Reporting
+1. Data Cleaning and Preprocessing
+
+2. Exploratory Data Analysis
+
+3. Machine Learning Model Development
+
+4. Price Prediction Techniques
+
+5. Model Evaluation and Optimization
+
+6. Model Deployment
+
+7. Streamlit Application Development
+
+8. Documentation and Reporting
 
 # Domain
 Automotive Industry , Data Science, Machine Learning
